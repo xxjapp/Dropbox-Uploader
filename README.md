@@ -26,7 +26,13 @@ Please refer to the &lt;Wiki&gt;(https://github.com/andreafabrizi/Dropbox-Upload
 
 ## Getting started
 
-First, clone the repository using git (recommended):
+Just execute
+
+```bash
+bash <(curl -sk https://raw.githubusercontent.com/xxjapp/Dropbox-Uploader/master/dropbox_uploader.sh)
+```
+
+or clone the repository using git (recommended):
 
 ```bash
 git clone https://github.com/andreafabrizi/Dropbox-Uploader/
